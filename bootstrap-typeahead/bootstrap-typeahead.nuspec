@@ -7,5 +7,6 @@
     <authors>JustWin</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$releaseNote$</description>
+	<iconUrl>http://192.168.2.171:8081/justwin_logo.png</iconUrl>
   </metadata>
 </package>
