@@ -7,12 +7,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Scripts\bootstrap-typeahead-1.0.0\bootstrap-typeahead.js" />
-    <Content Include="Scripts\bootstrap-typeahead-1.0.0\bootstrap-typeahead.min.js">
-      <DependentUpon>bootstrap-typeahead.js</DependentUpon>
-    </Content>
-    <Content Include="Scripts\bootstrap-typeahead-1.0.0\bootstrap-typeahead.min.js.map">
-      <DependentUpon>bootstrap-typeahead.js</DependentUpon>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <None Include="bootstrap-typeahead.nuspec" />
